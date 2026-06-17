@@ -5,6 +5,7 @@ import os
 import time
 import pandas as pd
 from services.auth.login_wall import render_login_wall
+from streamlit_webrtc import webrtc_streamer, WebRtcMode
 from services.state.session_default import initial_session_defaults
 from services.config.workout_config import EXERCISE_OPTIONS
 from services.ui.style_loader import load_css,inject_local_font,inject_webrtc_styles
