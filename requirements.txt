@@ -3,3 +3,5 @@ streamlit-webrtc
 pandas
 python-dotenv
 groq
+opencv-python-headless
+numpy
