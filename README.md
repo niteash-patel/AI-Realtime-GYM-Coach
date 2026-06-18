@@ -49,13 +49,13 @@ pip install -r requirements.txt
 ## Run the Application
 
 ```bash
-python app.py
+python main.py
 ```
 
 or
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## Future Improvements
